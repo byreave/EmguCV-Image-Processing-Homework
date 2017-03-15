@@ -22,3 +22,24 @@ F:\Visual Studio Stuff\Projects\EmguCVtest\EmguCVtest\obj\Debug\EmguCVtest.Form5
 F:\Visual Studio Stuff\Projects\EmguCVtest\EmguCVtest\obj\Debug\EmguCVtest.Form6.resources
 F:\Visual Studio Stuff\Projects\EmguCVtest\EmguCVtest\obj\Debug\EmguCVtest.Form7.resources
 F:\Visual Studio Stuff\Projects\EmguCVtest\EmguCVtest\obj\Debug\EmguCVtest.Form8.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\EmguCVtest.exe.config
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.exe
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.pdb
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form1.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form2.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form3.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form4.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form5.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form6.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form7.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Form8.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.Properties.Resources.resources
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.csproj.GenerateResource.Cache
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\EmguCVtest.exe
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\EmguCVtest.pdb
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\Emgu.CV.UI.dll
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\Emgu.CV.World.dll
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\Emgu.CV.UI.xml
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\bin\Debug\Emgu.CV.World.xml
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.csprojResolveAssemblyReference.cache
+C:\Users\bryeave\Desktop\EmguCV-Image-Processing-Homework-master\EmguCVtest\obj\Debug\EmguCVtest.VideoProcessor.resources

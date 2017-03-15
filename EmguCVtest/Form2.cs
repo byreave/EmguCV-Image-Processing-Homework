@@ -105,6 +105,7 @@ namespace EmguCVtest
                 //sourceImg = new Mat(Openfile.FileName, LoadImageType.Color);
                 imageBox1.Image = sourceImg;
             }
+            
         }
 
         private void button2_Click(object sender, EventArgs e)

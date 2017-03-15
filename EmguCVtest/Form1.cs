@@ -32,7 +32,7 @@ namespace EmguCVtest
             if (Openfile.ShowDialog() == DialogResult.OK)
             {
                 Image<Bgr, Byte> My_Image = new Image<Bgr, byte>(Openfile.FileName);
-                sourceImg = new Mat(Openfile.FileName, LoadImageType.Color);
+                sourceImg = new Mat(Openfile.FileName, ImreadModes.Color);
                 imageBox1.Image = My_Image;
             }
         }

@@ -38,6 +38,7 @@
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.button8 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -139,6 +140,7 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.button8);
             this.groupBox3.Controls.Add(this.button3);
             this.groupBox3.Location = new System.Drawing.Point(453, 13);
             this.groupBox3.Name = "groupBox3";
@@ -146,6 +148,16 @@
             this.groupBox3.TabIndex = 5;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "作业3";
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(73, 85);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(98, 23);
+            this.button8.TabIndex = 3;
+            this.button8.Text = "视频特征点跟踪";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click_1);
             // 
             // Form3
             // 
@@ -176,5 +188,6 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button8;
     }
 }

@@ -68,5 +68,11 @@ namespace EmguCVtest
             Form8 f8 = new Form8();
             f8.Show();
         }
+
+        private void button8_Click_1(object sender, EventArgs e)
+        {
+            VideoProcessor vp = new VideoProcessor();
+            vp.Show();
+        }
     }
 }

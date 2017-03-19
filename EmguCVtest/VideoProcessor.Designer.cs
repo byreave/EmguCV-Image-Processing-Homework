@@ -43,6 +43,8 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.kpLbl = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.imageBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.imageBox2)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -119,6 +121,8 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.kpLbl);
+            this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Controls.Add(this.fcLbl);
             this.groupBox1.Controls.Add(this.cfLbl);
             this.groupBox1.Controls.Add(this.frLbl);
@@ -135,7 +139,7 @@
             // fcLbl
             // 
             this.fcLbl.AutoSize = true;
-            this.fcLbl.Location = new System.Drawing.Point(105, 164);
+            this.fcLbl.Location = new System.Drawing.Point(105, 147);
             this.fcLbl.Name = "fcLbl";
             this.fcLbl.Size = new System.Drawing.Size(11, 12);
             this.fcLbl.TabIndex = 5;
@@ -162,7 +166,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(18, 164);
+            this.label5.Location = new System.Drawing.Point(18, 147);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 12);
             this.label5.TabIndex = 2;
@@ -185,6 +189,24 @@
             this.label3.Size = new System.Drawing.Size(71, 12);
             this.label3.TabIndex = 0;
             this.label3.Text = "Frame Rate:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(18, 189);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(65, 12);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "KeyPoints:";
+            // 
+            // kpLbl
+            // 
+            this.kpLbl.AutoSize = true;
+            this.kpLbl.Location = new System.Drawing.Point(107, 188);
+            this.kpLbl.Name = "kpLbl";
+            this.kpLbl.Size = new System.Drawing.Size(11, 12);
+            this.kpLbl.TabIndex = 7;
+            this.kpLbl.Text = "0";
             // 
             // VideoProcessor
             // 
@@ -226,5 +248,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label kpLbl;
+        private System.Windows.Forms.Label label6;
     }
 }

@@ -20,7 +20,7 @@ namespace EmguCVtest
     {
         VideoCapture vc;
         Mat frame, siftFrame;
-        double rate, frameCount, currentFrame;
+        double rate, frameCount, currentFrame, numOfKeyPoints;
         bool pause;
 
         public VideoProcessor()
@@ -29,6 +29,7 @@ namespace EmguCVtest
             pause = false;
             frame = new Mat();
             siftFrame = new Mat();
+            numOfKeyPoints = 0;
             currentFrame = 0;
             Application.Idle += Application_Idle;
         }
@@ -53,7 +54,8 @@ namespace EmguCVtest
                 imageBox1.Image = frame;
                 //detector.Detect(frame);
                 detector.DetectRaw(frame, keypoints);
-
+                numOfKeyPoints = keypoints.Size;
+                kpLbl.Text = numOfKeyPoints.ToString();
                 Features2DToolbox.DrawKeypoints(frame, keypoints, siftFrame, new Bgr(Color.Blue));
                 imageBox2.Image = siftFrame;
                 GC.Collect();
